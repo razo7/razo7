@@ -1,4 +1,5 @@
-# Based on https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme
+<!-- Based on https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme-->
+
 # Hi there, I'm Or Raz 👋
 
 ### Senior Software Engineer @ Red Hat | Kubernetes Internals & High Availability
