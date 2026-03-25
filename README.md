@@ -4,15 +4,15 @@
 
 ### Senior Software Engineer @ Red Hat | Kubernetes Internals & High Availability
 
-I am an engineer who speaks both Hardware and Software. With an M.Sc. in Communication Systems Engineering and a background in low-level architecture, I don't just write code—I design resilient distributed systems that handle failure gracefully.
+Senior Software Engineer with an M.Sc. in Communication Systems Engineering, an approved US Patent, and an IEEE publication in distributed computing. Expert in Kubernetes internals, Golang, and infrastructure reliability. Proven track record at Red Hat in architecting high-availability cloud solutions and bridging hardware constraints with software architecture to ensure enterprise-grade workload availability.
 
-Currently ensuring workload availability at Red Hat as part of the [**Medik8s**](https://www.medik8s.io/) team, focusing on the intersection of Kubernetes orchestration and physical infrastructure reliability.
+Currently ensuring workload availability at Red Hat as part of the [**Medik8s**](https://www.medik8s.io/) team.
 
 ---
 
 ### 🚀 Current Focus & Open Source Work
-- 🦀 **Core Kubernetes Infrastructure:** Spearheading the creation of [Red Hat Workload Availability (RHWA)](https://catalog.redhat.com/en/software/container-stacks/detail/66a2c1327595824b6114e28b#overview) ([Official Docs](https://docs.redhat.com/en/documentation/workload_availability_for_red_hat_openshift/latest)) to ensure high availability of workloads by detecting, fencing, and rehabilitating unhealthy OpenShift/K8s nodes.
-- 🛠️ **Maintainership:** Primary maintainer for the [Node Maintenance Operator (NMO)](https://github.com/medik8s/node-maintenance-operator) and lead Golang developer for the [Fence Agents Remediation (FAR)](https://github.com/medik8s/fence-agents-remediation) operator.
+- 🦀 **Core Kubernetes Infrastructure:** Spearheading the creation of [Red Hat Workload Availability (RHWA)](https://catalog.redhat.com/en/software/container-stacks/detail/66a2c1327595824b6114e28b#overview) ([Official Docs](https://docs.redhat.com/en/documentation/workload_availability_for_red_hat_openshift/latest)) to ensure high availability of workloads and **prevent split-brain scenarios** by detecting, fencing, and rehabilitating unhealthy OpenShift/K8s nodes.
+- 🛠️ **Maintainership:** Primary maintainer for the [Node Maintenance Operator (NMO)](https://github.com/medik8s/node-maintenance-operator) and lead developer for the [Fence Agents Remediation (FAR)](https://github.com/medik8s/fence-agents-remediation) operator. Engineering both as resilient **Golang** Kubernetes operators.
 - 🔬 **Research:** Designing a novel Node Health Storage-Based Detection Operator to overcome standard Kubelet heartbeat latency limitations.
 
 ---
@@ -22,6 +22,7 @@ I actively bridge academic research with production engineering.
 - 📜 **US Patent Granted:** [Node failure source detection in distributed computing environments using machine learning](https://patents.google.com/patent/US20240143446A1/en) *(US20240143446A1)*
 - 📄 **IEEE Publication:** ["Nap: Network-Aware Data Partitions for Efficient Distributed Processing"](https://ieeexplore.ieee.org/abstract/document/8935013) *(IEEE NCA 2019)*
   - ⚙️ **Open Source Implementations:** [Nap Core Algorithm](https://github.com/razo7/Nap) | [Hadoop 2.9.1 Integration](https://github.com/razo7/Nap-Hadoop-2.9.1)
+
 ---
 
 ### 💻 Tech Stack & Tools
