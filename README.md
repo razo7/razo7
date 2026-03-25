@@ -1,3 +1,4 @@
+# Based on https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme
 # Hi there, I'm Or Raz 👋
 
 ### Senior Software Engineer @ Red Hat | Kubernetes Internals & High Availability
@@ -19,7 +20,7 @@ Currently ensuring workload availability at Red Hat as part of the [**Medik8s**]
 I actively bridge academic research with production engineering. 
 - 📜 **US Patent Granted:** [Node failure source detection in distributed computing environments using machine learning](https://patents.google.com/patent/US20240143446A1/en) *(US20240143446A1)*
 - 📄 **IEEE Publication:** ["Nap: Network-Aware Data Partitions for Efficient Distributed Processing"](https://ieeexplore.ieee.org/abstract/document/8935013) *(IEEE NCA 2019)*
-
+  - ⚙️ **Open Source Implementations:** [Nap Core Algorithm](https://github.com/razo7/Nap) | [Hadoop 2.9.1 Integration](https://github.com/razo7/Nap-Hadoop-2.9.1)
 ---
 
 ### 💻 Tech Stack & Tools
